@@ -1,0 +1,66 @@
+.body_background 
+{
+    background-image: url("12-127037_download-wallpaper-colorful-dark-aesthetic-gradient-background.jpg");
+   
+}
+
+
+
+	.login_div1 , .login_div2
+	{
+		
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+label{
+	color:whitesmoke;
+}
+#player2_name_input,#player1_name_input
+{  
+
+border-radius: 100px;
+color:blanchedalmond;
+background-color: #735f5e;
+float: none;
+text-align: left;
+font-family: 'Cinzel', serif;
+}
+h1{
+	font-family: 'Lobster', cursive;
+}
+img{
+	height:200px;
+	width:200px;
+	border-radius:100px; ;
+}
+h3{
+	font-family: 'Cinzel', serif;
+	color:white;
+}
+button{
+	height:30px;
+	width:200px;
+	border-radius: 100px;
+	background-color: tomato;
+	font-family: 'Cinzel', serif;
+	color:black;
+}
+.btn:hover{
+	background-color: chartreuse;
+}
